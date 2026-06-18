@@ -1,0 +1,22 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.key
+*.pem
+*.p12
+*.sql
+*.sql.gz
+backup/
+backups/
+
+# Temporary files
+tmp/
+temp/
+*.log
+
